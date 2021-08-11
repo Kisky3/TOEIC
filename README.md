@@ -1,2 +1,1 @@
-# TOEIC
-TOEIC words
+# TOEIC WORDS
