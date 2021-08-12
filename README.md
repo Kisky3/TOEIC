@@ -1,3 +1,5 @@
 # TOEIC WORDS
 
-businiess
+page:
+
+https://kisky3.github.io/toeic-words/
