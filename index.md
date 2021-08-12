@@ -14,3 +14,5 @@
 6.punctuality: the quality or state of observing an appointed or regular time.
 
 7.bulletin: a printed or broadcast statement on a matter of public interest; a regular publication issued by an organization.
+
+8.intercom: a system for two-way communication, as between two rooms.
