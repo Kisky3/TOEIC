@@ -16,3 +16,5 @@
 7.bulletin: a printed or broadcast statement on a matter of public interest; a regular publication issued by an organization.
 
 8.intercom: a system for two-way communication, as between two rooms.
+
+9.shorthand: a system of rapid handwriting; employing symbols to represent words, phrases, and letters; stenography.
