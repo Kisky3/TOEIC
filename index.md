@@ -8,3 +8,7 @@
 3.out-tray: a tray or shallow basket used in office to put letters and documents in when they have been dealt with and are ready to be sent out of the office.
 
 4.partition: division into parts; something that separates or divides, as a wall.
+
+5.postage: the charge for mailing an item.
+
+6.punctuality: the quality or state of observing an appointed or regular time.
