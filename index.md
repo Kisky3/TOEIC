@@ -43,3 +43,5 @@
 7.`appoint`: to designate for an office or position.
 
 8.`coordinate`: bring into proper order or relation; adjust.
+
+9.`expertise`: expert skill or knowledge.
