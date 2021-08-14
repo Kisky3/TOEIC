@@ -25,5 +25,10 @@
 
 12.`xerox`: to print with a copying machine.
 
-13. 
+***
+
+### Personnel & Management
+1.`allocate`: to set apart for a specific purpose;to distribute;to allot.
+
+2.
 
