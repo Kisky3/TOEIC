@@ -21,4 +21,9 @@
 
 10.`stapler`: a machine for fastening together sheets of paper.
 
+11.`tardy`: slow in moving, acting, ect;late;delayed.
+
+12.`xerox`: to print with a copying machine.
+
+13. 
 
