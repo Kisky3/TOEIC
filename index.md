@@ -35,3 +35,7 @@
 3.`curriculum vitae`: chronological description of one's employment and educational history.
 
 4.`eligible`: qualified,as for an office or position.
+
+5.`lay off`: to dismiss an employee
+
+6.`amateur`: one who engagrs in an activity as a pastime rather than as a profession;one who lacks expertise;nonprofessional.
