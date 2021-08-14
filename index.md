@@ -1,20 +1,24 @@
 ## TOEIC WORDS
 
 ### Office Matters
-1.cabinet: He keeps all his files in the cabinet in the back of the office.
+1.`cabinet`: He keeps all his files in the cabinet in the back of the office.
 
-2.in-tray: a flat,shallow container used for holding items that are to be accomplished.
+2.`in-tray`: a flat,shallow container used for holding items that are to be accomplished.
 
-3.out-tray: a tray or shallow basket used in office to put letters and documents in when they have been dealt with and are ready to be sent out of the office.
+3.`out-tray`: a tray or shallow basket used in office to put letters and documents in when they have been dealt with and are ready to be sent out of the office.
 
-4.partition: division into parts; something that separates or divides, as a wall.
+4.`partition`: division into parts; something that separates or divides, as a wall.
 
-5.postage: the charge for mailing an item.
+5.`postage`: the charge for mailing an item.
 
-6.punctuality: the quality or state of observing an appointed or regular time.
+6.`punctuality`: the quality or state of observing an appointed or regular time.
 
-7.bulletin: a printed or broadcast statement on a matter of public interest; a regular publication issued by an organization.
+7.`bulletin`: a printed or broadcast statement on a matter of public interest; a regular publication issued by an organization.
 
-8.intercom: a system for two-way communication, as between two rooms.
+8.`intercom`: a system for two-way communication, as between two rooms.
 
-9.shorthand: a system of rapid handwriting; employing symbols to represent words, phrases, and letters; stenography.
+9.`shorthand`: a system of rapid handwriting; employing symbols to represent words, phrases, and letters; stenography.
+
+10.`stapler`: a machine for fastening together sheets of paper.
+
+
