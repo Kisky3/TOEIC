@@ -39,3 +39,7 @@
 5.`lay off`: to dismiss an employee
 
 6.`amateur`: one who engagrs in an activity as a pastime rather than as a profession;one who lacks expertise;nonprofessional.
+
+7.`appoint`: to designate for an office or position.
+
+8.`coordinate`: bring into proper order or relation; adjust.
