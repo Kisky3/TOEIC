@@ -34,3 +34,4 @@
 
 3.`curriculum vitae`: chronological description of one's employment and educational history.
 
+4.`eligible`: qualified,as for an office or position.
