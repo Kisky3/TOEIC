@@ -30,5 +30,5 @@
 ### Personnel & Management
 1.`allocate`: to set apart for a specific purpose;to distribute;to allot.
 
-2.
+2.`collaboration`: working together; cooperation with the enemy.
 
