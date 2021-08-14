@@ -6,7 +6,7 @@ https://kisky3.github.io/toeic-words/
 
 ## TOEIC WORDS
 
-### Office Matters
+## Office Matters
 1.`cabinet`: He keeps all his files in the cabinet in the back of the office.
 
 2.`in-tray`: a flat,shallow container used for holding items that are to be accomplished.
@@ -33,7 +33,7 @@ https://kisky3.github.io/toeic-words/
 
 ***
 
-### Personnel & Management
+## Personnel & Management
 1.`allocate`: to set apart for a specific purpose;to distribute;to allot.
 
 2.`collaboration`: working together; cooperation with the enemy.
