@@ -32,3 +32,5 @@
 
 2.`collaboration`: working together; cooperation with the enemy.
 
+3.`curriculum vitae`: chronological description of one's employment and educational history.
+
