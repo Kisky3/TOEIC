@@ -59,3 +59,6 @@ https://kisky3.github.io/toeic-words/
 12.`resign`: letter of reference.
 
 13.`substitute`:a persion or thing serving or used in place of another.
+
+***
+###
