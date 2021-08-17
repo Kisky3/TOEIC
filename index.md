@@ -1,6 +1,4 @@
-## TOEIC WORDS
-
-### Office Matters
+## Office Matters
 1.`cabinet`: He keeps all his files in the cabinet in the back of the office.
 
 2.`in-tray`: a flat,shallow container used for holding items that are to be accomplished.
@@ -27,7 +25,7 @@
 
 ***
 
-### Personnel & Management
+## Personnel & Management
 1.`allocate`: to set apart for a specific purpose;to distribute;to allot.
 
 2.`collaboration`: working together; cooperation with the enemy.
@@ -45,3 +43,68 @@
 8.`coordinate`: bring into proper order or relation; adjust.
 
 9.`expertise`: expert skill or knowledge.
+
+10.`novice`: a person new to something; beginner.
+
+11.`pension`: a sum of money paid regularly,especially as a retirement benifit.
+
+12.`resign`: letter of reference.
+
+13.`substitute`:a persion or thing serving or used in place of another.
+
+***
+### Business Development
+1.`accrue`:to comr as a gain or increase.
+
+2.`acquisition`:the act of acquiring.
+
+3.`asset`:anything owned that has value; a desirable thing; the property of a person.
+
+4.`buyout`:the purchase of a company or business.
+
+5.`equity`:fairness; justice; assets minus liabilities; net worth.
+
+6.`franchise`:anthorization granted by a manufacturer to sell his products.
+
+7.`launch`:to start; to put into action; to inaugurate; to initiate.
+
+8.`monopoly`:exclusive ownership or control, as of a given commodity or business activity.
+
+9.`phase`:one of a sequence of apparent forms.
+
+10.`proposition`:something offered for consideration.
+
+11.`prospectus`:a formal summary of a proposed business or other ventures, sent out to prospective or buyers.
+
+12.`rival`:one who competes with or attempts to outdo another; one that equals another.
+
+13.`subsidiary`:one that is connected with but of less importance than the main one, especially a company owned by another company.
+
+14.`track record`:a person's, a company's or a product's past performance, achievements, or failures.
+
+15.`acquire`: to gain possesion of.
+
+16.`affiliate`: a branch organization; a subsidiary.
+
+17.`assess`:to evaluate, especially for taxation; to judge the quality, importance, or worth of.
+
+18.`benchmark`:a standard of excellence, achievement,etc.;a standard or reference by which others can be measured or judged.
+
+19.`ambezzle`:to steal money,etc.entrusted to one.
+
+20.`entrepreneur`:one who organizes, operates, and especially assumes the risk of business venture.
+
+21.`integrate`:to make into a whole; to unify; to join with something else.
+
+22.`preliminary`:prior to the main matter, action, or business.
+
+23.`propose`:to put forward for consideration; to suggest.
+
+24.`prospect`:something expected or foreseen; outlook; anticipation.
+
+25.`prosperity`:the condition of being successful, especially in finacial respects.
+
+26.`thrive`:to grow vigorously; to flourish; to prosper.
+
+
+### Finance & Investment
