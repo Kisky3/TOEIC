@@ -86,5 +86,7 @@ https://kisky3.github.io/toeic-words/
 
 12.`rival`:one who competes with or attempts to outdo another; one that equals another.
 
-13.`subsidiary`:a person's, a company's or a product's past performance, achievements, or failures.
+13.`subsidiary`:one that is connected with but of less importance than the main one, especially a company owned by another company.
+
+14,`track record`:a person's, a company's or a product's past performance, achievements, or failures.
 ###
