@@ -85,4 +85,6 @@ https://kisky3.github.io/toeic-words/
 11.`prospectus`:a formal summary of a proposed business or other ventures, sent out to prospective or buyers.
 
 12.`rival`:one who competes with or attempts to outdo another; one that equals another.
+
+13.`subsidiary`:a person's, a company's or a product's past performance, achievements, or failures.
 ###
