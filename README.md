@@ -77,4 +77,8 @@ https://kisky3.github.io/toeic-words/
 7.`launch`:to start; to put into action; to inaugurate; to initiate.
 
 8.`monopoly`:exclusive ownership or control, as of a given commodity or business activity.
+
+9.`phase`:one of a sequence of apparent forms.
+
+10.`proposition`:something offered for consideration.
 ###
