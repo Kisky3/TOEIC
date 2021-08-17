@@ -61,5 +61,10 @@ https://kisky3.github.io/toeic-words/
 13.`substitute`:a persion or thing serving or used in place of another.
 
 ***
-###
+### Business Development
+1. `accrue`:to comr as a gain or increase.
+
+2.`acquisition`:the act of acquiring.
+
+3. 
 ###
