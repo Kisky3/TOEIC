@@ -88,5 +88,9 @@ https://kisky3.github.io/toeic-words/
 
 13.`subsidiary`:one that is connected with but of less importance than the main one, especially a company owned by another company.
 
-14,`track record`:a person's, a company's or a product's past performance, achievements, or failures.
+14.`track record`:a person's, a company's or a product's past performance, achievements, or failures.
+
+15.`acquire`: to gain possesion of.
+
+16.`affiliate`: a branch organization; a subsidiary.
 ###
