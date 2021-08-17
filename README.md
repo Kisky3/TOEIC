@@ -111,4 +111,8 @@ https://kisky3.github.io/toeic-words/
 24.`prospect`:something expected or foreseen; outlook; anticipation.
 
 25.`prosperity`:the condition of being successful, especially in finacial respects.
+
+26.`thrive`:to grow vigorously; to flourish; to prosper.
+
+
 ###
