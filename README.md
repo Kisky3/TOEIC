@@ -101,4 +101,6 @@ https://kisky3.github.io/toeic-words/
 19.`ambezzle`:to steal money,etc.entrusted to one.
 
 20.`entrepreneur`:one who organizes, operates, and especially assumes the risk of business venture.
+
+21.`integrate`:to make into a whole; to unify; to join with something else.
 ###
