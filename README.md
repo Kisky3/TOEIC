@@ -93,4 +93,6 @@ https://kisky3.github.io/toeic-words/
 15.`acquire`: to gain possesion of.
 
 16.`affiliate`: a branch organization; a subsidiary.
+
+17.`assess`:to evaluate, especially for taxation; to judge the quality, importance, or worth of.
 ###
