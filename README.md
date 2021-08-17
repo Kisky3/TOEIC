@@ -69,4 +69,12 @@ https://kisky3.github.io/toeic-words/
 3.`asset`:anything owned that has value; a desirable thing; the property of a person.
 
 4.`buyout`:the purchase of a company or business.
+
+5.`equity`:fairness; justice; assets minus liabilities; net worth.
+
+6.`franchise`:anthorization granted by a manufacturer to sell his products.
+
+7.`launch`:to start; to put into action; to inaugurate; to initiate.
+
+8.`monopoly`:exclusive ownership or control, as of a given commodity or business activity.
 ###
