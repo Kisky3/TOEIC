@@ -62,9 +62,11 @@ https://kisky3.github.io/toeic-words/
 
 ***
 ### Business Development
-1. `accrue`:to comr as a gain or increase.
+1.`accrue`:to comr as a gain or increase.
 
 2.`acquisition`:the act of acquiring.
 
-3. 
+3.`asset`:anything owned that has value; a desirable thing; the property of a person.
+
+4.`buyout`:the purchase of a company or business.
 ###
