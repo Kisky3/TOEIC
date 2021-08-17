@@ -81,4 +81,8 @@ https://kisky3.github.io/toeic-words/
 9.`phase`:one of a sequence of apparent forms.
 
 10.`proposition`:something offered for consideration.
+
+11.`prospectus`:a formal summary of a proposed business or other ventures, sent out to prospective or buyers.
+
+12.`rival`:one who competes with or attempts to outdo another; one that equals another.
 ###
