@@ -1,8 +1,8 @@
 # TOEIC WORDS
 
-page:
+(page preview](https://kisky3.github.io/toeic-words/)
 
-https://kisky3.github.io/toeic-words/
+
 
 ## TOEIC WORDS
 
