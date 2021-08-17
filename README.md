@@ -103,4 +103,10 @@ https://kisky3.github.io/toeic-words/
 20.`entrepreneur`:one who organizes, operates, and especially assumes the risk of business venture.
 
 21.`integrate`:to make into a whole; to unify; to join with something else.
+
+22.`preliminary`:prior to the main matter, action, or business.
+
+23.`propose`:to put forward for consideration; to suggest.
+
+24.`prospect`:something expected or foreseen; outlook; anticipation.
 ###
