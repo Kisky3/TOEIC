@@ -1,7 +1,6 @@
 # TOEIC WORDS
 
-some essential words for TOEIC.
-[page preview](https://kisky3.github.io/toeic-words/)
+some essential words for TOEIC. click => [page preview](https://kisky3.github.io/toeic-words/)
 
 ## Office Matters
 1.`cabinet`: He keeps all his files in the cabinet in the back of the office.
