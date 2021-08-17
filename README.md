@@ -97,4 +97,8 @@ https://kisky3.github.io/toeic-words/
 17.`assess`:to evaluate, especially for taxation; to judge the quality, importance, or worth of.
 
 18.`benchmark`:a standard of excellence, achievement,etc.;a standard or reference by which others can be measured or judged.
+
+19.`ambezzle`:to steal money,etc.entrusted to one.
+
+20.`entrepreneur`:one who organizes, operates, and especially assumes the risk of business venture.
 ###
