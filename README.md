@@ -131,3 +131,12 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 9.`overdraft`: an act or instance of overdrawing a checking account.
 
 10.`withdrawal`: the act of taking back or removing.
+
+11.`bankrupt`: unable to pay one's debts.
+
+12.`capital`: wealth, money used to produce more wealthy.
+
+13. `currency`: the money in circulation in any country; general use or acceptance.
+
+
+ 
