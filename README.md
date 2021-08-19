@@ -119,3 +119,11 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 3.`deficit`: the amount by which something less than what is needed.
 
 4.`depreciation`: decrease in value.
+
+5.`devaluation`: a reduction in the value of something.
+
+6.`exempt`: freed from a duty, service, payment.
+
+7.`fluctuation`: continual change from one point or condition to another.
+
+8.``:
