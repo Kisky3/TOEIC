@@ -112,7 +112,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 
 ### Finance & Investment
-1. `bond`: an official paper promising to pay a sum of money to the person who holds it.
+1.`bond`: an official paper promising to pay a sum of money to the person who holds it.
 
 2.`chamber of commerce`: a group of business-men, in a particular town or area, working together for the purpose of improving trade.
 
@@ -136,7 +136,13 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 12.`capital`: wealth, money used to produce more wealthy.
 
-13. `currency`: the money in circulation in any country; general use or acceptance.
+13.`currency`: the money in circulation in any country; general use or acceptance.
+
+14.`deduction`: the process of subtracting or taking away, the account deducted.
+
+15.`deposit`: to pay money that will be returned later if certain conditions are kept.
+
+16.`discrepancy`: difference, or lack of agreement or similarity.
 
 
  
