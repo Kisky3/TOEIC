@@ -112,4 +112,4 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 
 ### Finance & Investment
-1. ``:
+1. `bond`: an official paper promising to pay a sum of money to the person who holds it.
