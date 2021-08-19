@@ -1,4 +1,4 @@
-# TOEIC WORDS
+# TOEIC Words / Business English Vocabulary 
 
 some essential words for TOEIC. click => [page preview](https://kisky3.github.io/toeic-words/)
 
