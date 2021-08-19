@@ -113,3 +113,9 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 ### Finance & Investment
 1. `bond`: an official paper promising to pay a sum of money to the person who holds it.
+
+2.`chamber of commerce`: a group of business-men, in a particular town or area, working together for the purpose of improving trade.
+
+3.`deficit`: the amount by which something less than what is needed.
+
+4.``:
