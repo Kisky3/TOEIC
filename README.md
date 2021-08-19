@@ -118,4 +118,4 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 3.`deficit`: the amount by which something less than what is needed.
 
-4.``:
+4.`depreciation`: decrease in value.
