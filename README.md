@@ -126,4 +126,8 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 7.`fluctuation`: continual change from one point or condition to another.
 
-8.``:
+8.`gross`: without deductions; total.
+
+9.`overdraft`: an act or instance of overdrawing a checking account.
+
+10.`withdrawal`: the act of taking back or removing.
