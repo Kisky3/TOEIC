@@ -197,3 +197,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 4.`convention`: generally accepted practice; a meeting or formal assembly, as of representatives or delegates.
 
 5.`cross-reference`: a note directing the reader from one place in a book to another place in the same book.
+
+6.`delegate`: a person authorized to act as representative for others; representative.
