@@ -181,3 +181,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 16.`inventory`: an itemized list of goods, property, the store of goods.
 
 17.`quota`: an amount that has been officially fixed as someone's share.
+
+18.`surplus`: an additional amount.
+
+19.`warehouse`: a building where goods are stored.
