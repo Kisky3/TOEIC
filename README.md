@@ -163,3 +163,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 7.`quote`: to state the price of something.
 
 8.`tariff`: a tax collected by a government on goods coming into or somethings going out of a country.
+
+9.`bill of lading`: a list of goods carried, on a ship.
+
+10.`commodity`: an article of trade or commerce, a mineral or farm product.
