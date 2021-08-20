@@ -174,4 +174,4 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 13.`due`: owned or owing as a debt or right; payable; expected or supposed to happen, arrive.
 
-14.``:
+14.`endorse`: to write on the back of, to support; to approve; to sanction.
