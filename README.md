@@ -167,3 +167,11 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 9.`bill of lading`: a list of goods carried, on a ship.
 
 10.`commodity`: an article of trade or commerce, a mineral or farm product.
+
+11.`consignee`: the person to whom something is delivered.
+
+12.`dealer`: a person in a stated type of business.
+
+13.`due`: owned or owing as a debt or right; payable; expected or supposed to happen, arrive.
+
+14.``:
