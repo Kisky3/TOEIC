@@ -199,3 +199,9 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 5.`cross-reference`: a note directing the reader from one place in a book to another place in the same book.
 
 6.`delegate`: a person authorized to act as representative for others; representative.
+
+7.`dispute`: an argument or quarrel. to argue about something.
+
+8.`postpone`: to put off until a later time; to defer; to delay.
+
+9.`reconcile`: to find agreement between two opposing ideas, situations.
