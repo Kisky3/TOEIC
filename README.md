@@ -151,3 +151,11 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 1.`bid`: a bidding; the amount bid.
 
 2.`consolidate`: to combine into one; to become stronger or firmer.
+
+3.`coporate`: belong to; or shared by all the members of a group.
+
+4.`credible`: deserving to be belived.
+
+5.`haggle`: to argue about terms, price.
+
+6.`invoice`: a list of goods supplied or work donw, stating quantity and price.
