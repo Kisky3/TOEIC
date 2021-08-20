@@ -185,3 +185,9 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 18.`surplus`: an additional amount.
 
 19.`warehouse`: a building where goods are stored.
+
+***
+### Business Meeting & Negotiation
+1.`adjourn`: to bring to a stop.for a short period or until a later time.
+
+2.`amendment`: a change to improve a rule, law, statement.
