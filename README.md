@@ -159,3 +159,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 5.`haggle`: to argue about terms, price.
 
 6.`invoice`: a list of goods supplied or work donw, stating quantity and price.
+
+7.`quote`: to state the price of something.
