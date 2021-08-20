@@ -191,3 +191,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 1.`adjourn`: to bring to a stop.for a short period or until a later time.
 
 2.`amendment`: a change to improve a rule, law, statement.
+
+3.`concede`: to admit as true, correct or proper, to give as a right.
+
+4.`convention`: generally accepted practice; a meeting or formal assembly, as of representatives or delegates.
