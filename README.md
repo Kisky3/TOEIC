@@ -161,3 +161,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 6.`invoice`: a list of goods supplied or work donw, stating quantity and price.
 
 7.`quote`: to state the price of something.
+
+8.`tariff`: a tax collected by a government on goods coming into or somethings going out of a country.
