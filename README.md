@@ -179,3 +179,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 15.`headquarters`: the main office or center of operations.
 
 16.`inventory`: an itemized list of goods, property, the store of goods.
+
+17.`quota`: an amount that has been officially fixed as someone's share.
