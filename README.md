@@ -195,3 +195,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 3.`concede`: to admit as true, correct or proper, to give as a right.
 
 4.`convention`: generally accepted practice; a meeting or formal assembly, as of representatives or delegates.
+
+5.`cross-reference`: a note directing the reader from one place in a book to another place in the same book.
