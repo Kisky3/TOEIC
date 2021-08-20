@@ -145,4 +145,9 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 16.`discrepancy`: difference, or lack of agreement or similarity.
 
 17.`expenditure`: spending or using up; the amount of money, time.
- 
+
+***
+### Commerce
+1.`bid`: a bidding; the amount bid.
+
+2.`consolidate`: to combine into one; to become stronger or firmer.
