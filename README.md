@@ -205,3 +205,6 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 8.`postpone`: to put off until a later time; to defer; to delay.
 
 9.`reconcile`: to find agreement between two opposing ideas, situations.
+
+***
+### 
