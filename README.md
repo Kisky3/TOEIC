@@ -245,3 +245,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 9.`gadget`: a small mechanical device or useful apparatus.
 
 10.`outage`: an interruption or failure in the supply of power.
+
+11.`petroleum`: a mineral oil obtained from below the surface of the earth.
