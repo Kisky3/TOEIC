@@ -206,5 +206,17 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 9.`reconcile`: to find agreement between two opposing ideas, situations.
 
+10.`articulate`: expressing or able to express thoughtw and feelings clearly and effectively.
+
+11.`attorney`: a lawyer.
+
+12.`consensus`: a general agreement.
+
+13.`criterion`: a standard against which something is measured.
+
+14.`diplomacy`: the art and practice of establishing and continuing relations between countries.
+
+
+
 ***
 ### 
