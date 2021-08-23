@@ -241,3 +241,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 7.`consecutive`: following in regular unbroken order.
 
 8.`devise`: to plan or invest.
+
+9.`gadget`: a small mechanical device or useful apparatus.
+
+10.`outage`: an interruption or failure in the supply of power.
