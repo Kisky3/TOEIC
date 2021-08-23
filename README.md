@@ -237,3 +237,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 5.`specification`: a detail plan or set of description.
 
 6.`substandard`: below the standard.
+
+7.`consecutive`: following in regular unbroken order.
+
+8.`devise`: to plan or invest.
