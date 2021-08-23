@@ -218,7 +218,9 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 15.`dessuade`: to advise someone against doing something.
 
-16.`one `:
+16.`on behalf of`: for, in the interest of, or as the representative of.
+
+17.`petition`: a request or demand made to a government or other body.
 
 ***
 ### 
