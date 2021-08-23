@@ -225,4 +225,15 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 18.`premise`: a statement or idea on which reasoning is based.
 
 ***
-### 
+### Technology & Equipment
+1.`facilitate`: to make easy or easier.
+
+2.`malfunction`: a fault in operation.
+
+3.`portable`: capable of being carried or moved about.
+
+4.`satellite`: a body in space that moves around a large one.
+
+5.`specification`: a detail plan or set of description.
+
+6.`substandard`: below the standard.
