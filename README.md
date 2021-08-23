@@ -222,5 +222,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 17.`petition`: a request or demand made to a government or other body.
 
+18.`premise`: a statement or idea on which reasoning is based.
+
 ***
 ### 
