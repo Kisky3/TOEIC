@@ -216,7 +216,9 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 14.`diplomacy`: the art and practice of establishing and continuing relations between countries.
 
+15.`dessuade`: to advise someone against doing something.
 
+16.`one `:
 
 ***
 ### 
