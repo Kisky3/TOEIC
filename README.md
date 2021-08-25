@@ -249,3 +249,6 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 11.`petroleum`: a mineral oil obtained from below the surface of the earth.
 
 12.`procedure`: a set of actions necessary for doing something.
+
+***
+
