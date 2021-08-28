@@ -259,3 +259,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 3.`retrieval`: an act or process of bringing back.
 
 4.`terminology`: the technical or special terms used in a business, art, science, or special subject.
+
+5.`configuration`: the arrangement of the parts of something.
