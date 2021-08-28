@@ -251,4 +251,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 12.`procedure`: a set of actions necessary for doing something.
 
 ***
+### Computer
 
