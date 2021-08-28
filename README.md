@@ -263,3 +263,9 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 5.`configuration`: the arrangement of the parts of something.
 
 6.`omit`: to leave out or leave unmentioned.
+
+***
+### Business Correspondence & Advertisement
+1.`appendix`: additional material at the end of a book.
+
+2.``:
