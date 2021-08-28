@@ -274,4 +274,4 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 4.`correspondence`: communication by letters, the letters exchanged between people.
 
-
+5.`dictate`:
