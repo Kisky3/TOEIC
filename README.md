@@ -256,3 +256,6 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 2.`cutting edge`: the quality of sharp directness.
 
+3.`retrieval`: an act or process of bringing back.
+
+4.`terminology`: the technical or special terms used in a business, art, science, or special subject.
