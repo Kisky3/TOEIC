@@ -252,4 +252,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 ***
 ### Computer
+1.`compliance`: obedience to a rule, agreement, demand.
+
+2.`cutting edge`: the quality of sharp directness.
 
