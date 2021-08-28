@@ -268,4 +268,6 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 ### Business Correspondence & Advertisement
 1.`appendix`: additional material at the end of a book.
 
-2.``:
+2.`cohesive`: holding fast. sticking together, well-integrated.
+
+3.``:
