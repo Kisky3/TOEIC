@@ -276,4 +276,6 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 5.`dictate`: to say for someone else to write down.
 
-6.``:
+6.`elaborate`: to add more detail or information.
+
+7.``:
