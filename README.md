@@ -287,3 +287,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 10.`affirm`: to state or declare positively.
 
 11.`banner`: a strip of cloth on which a sign is painted.
+
+12.`circular`: a printed advertisement, paper, or notice intend for distribution.
