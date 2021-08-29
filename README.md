@@ -281,3 +281,9 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 7.`inquire`: to ask for information.
 
 8`jot down`: to make a brief note of.
+
+9.`leaflet`: a ususlly folded printed sheet intended for free distribution.
+
+10.`affirm`: to state or declare positively.
+
+11.`banner`: a strip of cloth on which a sign is painted.
