@@ -278,4 +278,4 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 6.`elaborate`: to add more detail or information.
 
-7.``:
+7.`inquire`: to ask for information.
