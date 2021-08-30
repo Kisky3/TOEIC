@@ -305,3 +305,6 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 19.`proofread`: to read and mark corrections on.
 
 20.`stationary`: writing materials, as pens; pencils, paper and envelopes.
+
+***
+###
