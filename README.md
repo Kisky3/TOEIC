@@ -295,3 +295,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 14.`convene`: to come together, to call to meet.
 
 15.`courier`: a person or company that is employed to carry messages or other official paper.
+
+16.`enclose`: to include along with something else in a parcel or envelope.
