@@ -297,3 +297,8 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 15.`courier`: a person or company that is employed to carry messages or other official paper.
 
 16.`enclose`: to include along with something else in a parcel or envelope.
+
+17.`legible`: handwriting or print that can be read, easily.
+
+18.`postage`: the money charged for mailing a letter, carrying a parcel.
+
