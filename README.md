@@ -307,4 +307,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 20.`stationary`: writing materials, as pens; pencils, paper and envelopes.
 
 ***
-###
+### Travel
+1.`accommodation`: adjustment, a place to live or work in.
