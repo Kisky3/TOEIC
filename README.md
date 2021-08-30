@@ -328,4 +328,4 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 10.`carry-on`: a small piece of luggage that is allowed inside the cabin of a passenger airplane.
 
-11.``
+11.`concierge`: a caretaker or head porter as of an apartment house or hotel.
