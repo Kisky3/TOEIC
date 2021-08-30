@@ -289,3 +289,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 11.`banner`: a strip of cloth on which a sign is painted.
 
 12.`circular`: a printed advertisement, paper, or notice intend for distribution.
+
+13.`composition`: the act or process of forming something to become a whole.
+
+14.`convene`: to come together, to call to meet.
