@@ -323,3 +323,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 7.`motel`: a hotel for motorists.
 
 8.`suite`: a set of rooms.
+
+9.`baggage claim`: an area where passengers collect their suitcase and luggage after an airline flight.
