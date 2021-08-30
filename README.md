@@ -325,3 +325,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 8.`suite`: a set of rooms.
 
 9.`baggage claim`: an area where passengers collect their suitcase and luggage after an airline flight.
+
+10.`carry-on`: a small piece of luggage that is allowed inside the cabin of a passenger airplane.
+
+11.``
