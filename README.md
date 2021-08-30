@@ -331,3 +331,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 11.`concierge`: a caretaker or head porter as of an apartment house or hotel.
 
 12.` cruise`: a sea voyage for pleasure.
+
+13.`deluxe`: especially elegant or luxurious.
+
+14.`porter`: a person employed to carry travelers' bags at railway stations, airports.
