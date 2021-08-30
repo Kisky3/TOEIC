@@ -302,3 +302,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 18.`postage`: the money charged for mailing a letter, carrying a parcel.
 
+19.`prrofread`: to read and mark corrections on.
+
