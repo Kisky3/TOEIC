@@ -335,3 +335,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 13.`deluxe`: especially elegant or luxurious.
 
 14.`porter`: a person employed to carry travelers' bags at railway stations, airports.
+
+15.`vacant`: not held, occupied as a seat, house.
