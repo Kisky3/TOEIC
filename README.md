@@ -309,3 +309,17 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 ***
 ### Travel
 1.`accommodation`: adjustment, a place to live or work in.
+
+2.`customs`: a place where travelers' belongings are searched when leaving or entering a country.
+
+3.`en route`: on the way.
+
+4.`expedition`: journey or voyage for a particular purpose.
+
+5.`itinerary`: a travel plan, a travel route.
+
+6.`lodge`: a small house, a resort hotel or motel.
+
+7.`motel`: a hotel for motorists.
+
+8.`suite`: a set of rooms.
