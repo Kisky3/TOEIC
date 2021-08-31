@@ -1,3 +1,7 @@
+# TOEIC Words / Business English Vocabulary 
+
+some essential words for TOEIC. click => [page preview](https://kisky3.github.io/toeic-words/)
+
 ## Office Matters
 1.`cabinet`: He keeps all his files in the cabinet in the back of the office.
 
@@ -108,3 +112,228 @@
 
 
 ### Finance & Investment
+1.`bond`: an official paper promising to pay a sum of money to the person who holds it.
+
+2.`chamber of commerce`: a group of business-men, in a particular town or area, working together for the purpose of improving trade.
+
+3.`deficit`: the amount by which something less than what is needed.
+
+4.`depreciation`: decrease in value.
+
+5.`devaluation`: a reduction in the value of something.
+
+6.`exempt`: freed from a duty, service, payment.
+
+7.`fluctuation`: continual change from one point or condition to another.
+
+8.`gross`: without deductions; total.
+
+9.`overdraft`: an act or instance of overdrawing a checking account.
+
+10.`withdrawal`: the act of taking back or removing.
+
+11.`bankrupt`: unable to pay one's debts.
+
+12.`capital`: wealth, money used to produce more wealthy.
+
+13.`currency`: the money in circulation in any country; general use or acceptance.
+
+14.`deduction`: the process of subtracting or taking away, the account deducted.
+
+15.`deposit`: to pay money that will be returned later if certain conditions are kept.
+
+16.`discrepancy`: difference, or lack of agreement or similarity.
+
+17.`expenditure`: spending or using up; the amount of money, time.
+
+***
+### Commerce
+1.`bid`: a bidding; the amount bid.
+
+2.`consolidate`: to combine into one; to become stronger or firmer.
+
+3.`coporate`: belong to; or shared by all the members of a group.
+
+4.`credible`: deserving to be belived.
+
+5.`haggle`: to argue about terms, price.
+
+6.`invoice`: a list of goods supplied or work donw, stating quantity and price.
+
+7.`quote`: to state the price of something.
+
+8.`tariff`: a tax collected by a government on goods coming into or somethings going out of a country.
+
+9.`bill of lading`: a list of goods carried, on a ship.
+
+10.`commodity`: an article of trade or commerce, a mineral or farm product.
+
+11.`consignee`: the person to whom something is delivered.
+
+12.`dealer`: a person in a stated type of business.
+
+13.`due`: owned or owing as a debt or right; payable; expected or supposed to happen, arrive.
+
+14.`endorse`: to write on the back of, to support; to approve; to sanction.
+
+15.`headquarters`: the main office or center of operations.
+
+16.`inventory`: an itemized list of goods, property, the store of goods.
+
+17.`quota`: an amount that has been officially fixed as someone's share.
+
+18.`surplus`: an additional amount.
+
+19.`warehouse`: a building where goods are stored.
+
+***
+### Business Meeting & Negotiation
+1.`adjourn`: to bring to a stop.for a short period or until a later time.
+
+2.`amendment`: a change to improve a rule, law, statement.
+
+3.`concede`: to admit as true, correct or proper, to give as a right.
+
+4.`convention`: generally accepted practice; a meeting or formal assembly, as of representatives or delegates.
+
+5.`cross-reference`: a note directing the reader from one place in a book to another place in the same book.
+
+6.`delegate`: a person authorized to act as representative for others; representative.
+
+7.`dispute`: an argument or quarrel. to argue about something.
+
+8.`postpone`: to put off until a later time; to defer; to delay.
+
+9.`reconcile`: to find agreement between two opposing ideas, situations.
+
+10.`articulate`: expressing or able to express thoughtw and feelings clearly and effectively.
+
+11.`attorney`: a lawyer.
+
+12.`consensus`: a general agreement.
+
+13.`criterion`: a standard against which something is measured.
+
+14.`diplomacy`: the art and practice of establishing and continuing relations between countries.
+
+15.`dessuade`: to advise someone against doing something.
+
+16.`on behalf of`: for, in the interest of, or as the representative of.
+
+17.`petition`: a request or demand made to a government or other body.
+
+18.`premise`: a statement or idea on which reasoning is based.
+
+***
+### Technology & Equipment
+1.`facilitate`: to make easy or easier.
+
+2.`malfunction`: a fault in operation.
+
+3.`portable`: capable of being carried or moved about.
+
+4.`satellite`: a body in space that moves around a large one.
+
+5.`specification`: a detail plan or set of description.
+
+6.`substandard`: below the standard.
+
+7.`consecutive`: following in regular unbroken order.
+
+8.`devise`: to plan or invest.
+
+9.`gadget`: a small mechanical device or useful apparatus.
+
+10.`outage`: an interruption or failure in the supply of power.
+
+11.`petroleum`: a mineral oil obtained from below the surface of the earth.
+
+12.`procedure`: a set of actions necessary for doing something.
+
+***
+### Computer
+1.`compliance`: obedience to a rule, agreement, demand.
+
+2.`cutting edge`: the quality of sharp directness.
+
+3.`retrieval`: an act or process of bringing back.
+
+4.`terminology`: the technical or special terms used in a business, art, science, or special subject.
+
+5.`configuration`: the arrangement of the parts of something.
+
+6.`omit`: to leave out or leave unmentioned.
+
+***
+### Business Correspondence & Advertisement
+1.`appendix`: additional material at the end of a book.
+
+2.`cohesive`: holding fast. sticking together, well-integrated.
+
+3.`confidential`: spoken or written in secret and intended to be kept secret.
+
+4.`correspondence`: communication by letters, the letters exchanged between people.
+
+5.`dictate`: to say for someone else to write down.
+
+6.`elaborate`: to add more detail or information.
+
+7.`inquire`: to ask for information.
+
+8`jot down`: to make a brief note of.
+
+9.`leaflet`: a ususlly folded printed sheet intended for free distribution.
+
+10.`affirm`: to state or declare positively.
+
+11.`banner`: a strip of cloth on which a sign is painted.
+
+12.`circular`: a printed advertisement, paper, or notice intend for distribution.
+
+13.`composition`: the act or process of forming something to become a whole.
+
+14.`convene`: to come together, to call to meet.
+
+15.`courier`: a person or company that is employed to carry messages or other official paper.
+
+16.`enclose`: to include along with something else in a parcel or envelope.
+
+17.`legible`: handwriting or print that can be read, easily.
+
+18.`postage`: the money charged for mailing a letter, carrying a parcel.
+
+19.`proofread`: to read and mark corrections on.
+
+20.`stationary`: writing materials, as pens; pencils, paper and envelopes.
+
+***
+### Travel
+1.`accommodation`: adjustment, a place to live or work in.
+
+2.`customs`: a place where travelers' belongings are searched when leaving or entering a country.
+
+3.`en route`: on the way.
+
+4.`expedition`: journey or voyage for a particular purpose.
+
+5.`itinerary`: a travel plan, a travel route.
+
+6.`lodge`: a small house, a resort hotel or motel.
+
+7.`motel`: a hotel for motorists.
+
+8.`suite`: a set of rooms.
+
+9.`baggage claim`: an area where passengers collect their suitcase and luggage after an airline flight.
+
+10.`carry-on`: a small piece of luggage that is allowed inside the cabin of a passenger airplane.
+
+11.`concierge`: a caretaker or head porter as of an apartment house or hotel.
+
+12.` cruise`: a sea voyage for pleasure.
+
+13.`deluxe`: especially elegant or luxurious.
+
+14.`porter`: a person employed to carry travelers' bags at railway stations, airports.
+
+15.`vacant`: not held, occupied as a seat, house.
