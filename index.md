@@ -57,7 +57,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 13.`substitute`:a persion or thing serving or used in place of another.
 
 ***
-### Business Development
+## Business Development
 1.`accrue`:to comr as a gain or increase.
 
 2.`acquisition`:the act of acquiring.
@@ -110,8 +110,8 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 26.`thrive`:to grow vigorously; to flourish; to prosper.
 
-
-### Finance & Investment
+***
+## Finance & Investment
 1.`bond`: an official paper promising to pay a sum of money to the person who holds it.
 
 2.`chamber of commerce`: a group of business-men, in a particular town or area, working together for the purpose of improving trade.
@@ -147,7 +147,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 17.`expenditure`: spending or using up; the amount of money, time.
 
 ***
-### Commerce
+## Commerce
 1.`bid`: a bidding; the amount bid.
 
 2.`consolidate`: to combine into one; to become stronger or firmer.
@@ -187,7 +187,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 19.`warehouse`: a building where goods are stored.
 
 ***
-### Business Meeting & Negotiation
+## Business Meeting & Negotiation
 1.`adjourn`: to bring to a stop.for a short period or until a later time.
 
 2.`amendment`: a change to improve a rule, law, statement.
@@ -225,7 +225,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 18.`premise`: a statement or idea on which reasoning is based.
 
 ***
-### Technology & Equipment
+## Technology & Equipment
 1.`facilitate`: to make easy or easier.
 
 2.`malfunction`: a fault in operation.
@@ -251,7 +251,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 12.`procedure`: a set of actions necessary for doing something.
 
 ***
-### Computer
+## Computer
 1.`compliance`: obedience to a rule, agreement, demand.
 
 2.`cutting edge`: the quality of sharp directness.
@@ -265,7 +265,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 6.`omit`: to leave out or leave unmentioned.
 
 ***
-### Business Correspondence & Advertisement
+## Business Correspondence & Advertisement
 1.`appendix`: additional material at the end of a book.
 
 2.`cohesive`: holding fast. sticking together, well-integrated.
@@ -307,7 +307,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 20.`stationary`: writing materials, as pens; pencils, paper and envelopes.
 
 ***
-### Travel
+## Travel
 1.`accommodation`: adjustment, a place to live or work in.
 
 2.`customs`: a place where travelers' belongings are searched when leaving or entering a country.
