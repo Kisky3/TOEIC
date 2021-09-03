@@ -365,3 +365,9 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 12.`jeopardy`: risk of loss, defeat, harm, etc. danger, peril.
 
 13.`pedestrain`: a person going or traveling on foot.
+
+***
+### Shopping
+1.`bazaar`: a marketplace or a group of shops.
+
+2.`expiration`: a coming to an end.
