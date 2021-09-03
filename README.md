@@ -375,3 +375,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 3.`itemize`: to set out all the details of; to list the individual units or parts of.
 
 4.`neon sign`: a sign made from glass tubes filled with neon gas which light up when light up when an electric current goes through them.
+
+5.`pushcart`: a small cart pushed by hand; handcart.
