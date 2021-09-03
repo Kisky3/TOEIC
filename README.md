@@ -377,3 +377,13 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 4.`neon sign`: a sign made from glass tubes filled with neon gas which light up when light up when an electric current goes through them.
 
 5.`pushcart`: a small cart pushed by hand; handcart.
+
+6.`reimburse`: to pay back; to repay.
+
+7.`solicit`: to ask for money, help, favor, etc.
+
+8.`flea market`: a market where cheap or used goods are sold.
+
+9.`patron`: a regular customer; one who sponsors and supports some organization, activity, etc.
+
+10.`refund`: a sum of money refunded. to give back money in return for loss or damage.
