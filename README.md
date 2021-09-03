@@ -356,4 +356,4 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 8.`cabin`: a small roughly build house, a room on a ship. the space for passengers, crew, or cargo in an aircraft.
 
-9.``:
+9.`ferry`: a boat that goes across a river or any other stretch of water, carrying people and things.
