@@ -391,3 +391,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 11.`retailer`: one who sells goods in a store to consumers.
 
 12.`thrift`: wise and careful use of money and goods; avoidance of waste.
+
+13.`vender`: a seller of small articles that can be carried about or pushed on a cart.
+
+14.`workmanship`: skill in making things; the quality of the work done.
