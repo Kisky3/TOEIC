@@ -343,3 +343,11 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 1.`accelerate`: to cause to move or happen faster.
 
 2.`buckle up`: to fasten a safely bell.
+
+3.`cargo`: the load carried by a ship, truck, plane.
+
+4.`convertible`:an automobile with a top that can be folded back.
+
+5.`jaywalk`: to walk across a street without obeying traffic rules and signals.
+
+6.
