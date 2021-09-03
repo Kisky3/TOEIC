@@ -350,4 +350,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 5.`jaywalk`: to walk across a street without obeying traffic rules and signals.
 
-6.
+6.`acrophbia`: an abnormal fear being in high places.
+
+7.`aviation`: the practice or science of flying in aircraft.
+
