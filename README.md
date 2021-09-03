@@ -354,3 +354,6 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 7.`aviation`: the practice or science of flying in aircraft.
 
+8.`cabin`: a small roughly build house, a room on a ship. the space for passengers, crew, or cargo in an aircraft.
+
+9.``:
