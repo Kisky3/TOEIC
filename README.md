@@ -387,3 +387,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 9.`patron`: a regular customer; one who sponsors and supports some organization, activity, etc.
 
 10.`refund`: a sum of money refunded. to give back money in return for loss or damage.
+
+11.`retailer`: one who sells goods in a store to consumers.
+
+12.`thrift`: wise and careful use of money and goods; avoidance of waste.
