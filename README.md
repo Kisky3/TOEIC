@@ -359,3 +359,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 9.`ferry`: a boat that goes across a river or any other stretch of water, carrying people and things.
 
 10.`freight`: goods carried by ship, train plane, etc; cargo.
+
+11.`intersection`: a point where roads, lines, etc. cross.
