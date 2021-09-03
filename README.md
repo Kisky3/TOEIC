@@ -371,3 +371,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 1.`bazaar`: a marketplace or a group of shops.
 
 2.`expiration`: a coming to an end.
+
+3.`itemize`: to set out all the details of; to list the individual units or parts of.
+
+4.`neon sign`: a sign made from glass tubes filled with neon gas which light up when light up when an electric current goes through them.
