@@ -361,3 +361,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 10.`freight`: goods carried by ship, train plane, etc; cargo.
 
 11.`intersection`: a point where roads, lines, etc. cross.
+
+12.`jeopardy`: risk of loss, defeat, harm, etc. danger, peril.
