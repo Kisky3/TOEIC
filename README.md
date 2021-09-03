@@ -340,4 +340,6 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 ***
 ### Transportation
-1.``:
+1.`accelerate`: to cause to move or happen faster.
+
+2.`buckle up`: to fasten a safely bell.
