@@ -395,3 +395,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 13.`vender`: a seller of small articles that can be carried about or pushed on a cart.
 
 14.`workmanship`: skill in making things; the quality of the work done.
+
+***
