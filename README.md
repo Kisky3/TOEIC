@@ -419,3 +419,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 10.`appetizer`: a food or drink taken before.
 
 11.`beverage`: any liquid for drinking, esp.
+
+12.`buffet`: a meal at which guest serve themselves from dishes arraged on a table or sideboard.
