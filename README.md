@@ -406,4 +406,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 4.`liquor`: a strong alcoholic drink.
 
+5.`munch`: to chew with a strong movement of the jaw.
 
