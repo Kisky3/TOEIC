@@ -413,3 +413,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 7.`ravenous`: extremely hungry; rapacious.
 
 8.`refreshment`: food or drink or both.
+
+9.`aperitif`: an alcoholic drink taken before a meal.
+
+
