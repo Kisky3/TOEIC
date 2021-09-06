@@ -416,4 +416,6 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 9.`aperitif`: an alcoholic drink taken before a meal.
 
+10.`appetizer`: a food or drink taken before.
 
+11.`beverage`: any liquid for drinking, esp.
