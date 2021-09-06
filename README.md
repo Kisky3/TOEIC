@@ -433,3 +433,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 17.`parched`: completely dry; very thirsty.
 
 18.`pastry`: a small sweet cake with crust baked from flour dough made with shortening.
+
+19.`preservative`: a chemical substance that is used to prevent things from decaying.
