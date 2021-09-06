@@ -404,4 +404,6 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 3.`delicacy`: a choice food.
 
+4.`liquor`: a strong alcoholic drink.
+
 
