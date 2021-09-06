@@ -411,3 +411,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 6.`palatable`: pleasant to the taste; agreeable to the mind or sensibilities.
 
 7.`ravenous`: extremely hungry; rapacious.
+
+8.`refreshment`: food or drink or both.
