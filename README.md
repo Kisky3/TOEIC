@@ -425,3 +425,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 13.`cuisine`: a style of cooking or preparing food. the food prepared.
 
 14.`entree`: a usually sweet food served as the last course of a meal.
+
+15.`hors d's oeuvre`: an appetizer served before a meal.
