@@ -397,3 +397,11 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 14.`workmanship`: skill in making things; the quality of the work done.
 
 ***
+### Dining Out
+1.`bland`: without much taste.
+
+2.`crave`: to have an intense desire for.
+
+3.`delicacy`: a choice food.
+
+
