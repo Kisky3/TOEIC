@@ -427,3 +427,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 14.`entree`: a usually sweet food served as the last course of a meal.
 
 15.`hors d's oeuvre`: an appetizer served before a meal.
+
+16.`leftovers`: food remaining uneaten after a meal, esp. when served at a later meal.
