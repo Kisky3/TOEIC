@@ -409,3 +409,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 5.`munch`: to chew with a strong movement of the jaw.
 
 6.`palatable`: pleasant to the taste; agreeable to the mind or sensibilities.
+
+7.`ravenous`: extremely hungry; rapacious.
