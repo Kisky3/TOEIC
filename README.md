@@ -421,3 +421,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 11.`beverage`: any liquid for drinking, esp.
 
 12.`buffet`: a meal at which guest serve themselves from dishes arraged on a table or sideboard.
+
+13.`cuisine`: a style of cooking or preparing food. the food prepared.
