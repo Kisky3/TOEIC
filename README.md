@@ -452,3 +452,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 6.`eloquent`: able to express ideas and opinions readily and well.
 
+7.`encounter`: a meeting, either unexpected or dangerous.
+
+8.`hilarious`: noisily merry.
+
