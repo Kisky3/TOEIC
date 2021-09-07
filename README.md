@@ -448,4 +448,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 4.`lavish`: very generous or wasteful.
 
+5.`protocol`: the customs and regulations dealing with diplomatic formality.
 
