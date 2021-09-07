@@ -437,3 +437,11 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 19.`preservative`: a chemical substance that is used to prevent things from decaying.
 
 20.`seasoning`: anything that adds zest to or improves the flavor of food.
+
+***
+### Social Contact
+1.`courtesy`: polite behavior; good manners.
+
+2`distinguished`: characterized by excellence.
+
+3.``:
