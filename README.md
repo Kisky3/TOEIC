@@ -456,3 +456,9 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 8.`hilarious`: noisily merry.
 
+9.`intrude`: to enter unwanted or unasked.
+
+10.`nuisnce`: a person, thing, or situation that causes annoyance or inconvenience.
+
+11.`prompt`: arriving at the right time.
+***
