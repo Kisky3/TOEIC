@@ -444,4 +444,8 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 2`distinguished`: characterized by excellence.
 
-3.``:
+3.`etiquette`: the forms, manners, etc.
+
+4.`lavish`: very generous or wasteful.
+
+
