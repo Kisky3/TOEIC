@@ -450,3 +450,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 5.`protocol`: the customs and regulations dealing with diplomatic formality.
 
+6.`eloquent`: able to express ideas and opinions readily and well.
+
