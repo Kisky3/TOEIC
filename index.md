@@ -57,7 +57,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 13.`substitute`:a persion or thing serving or used in place of another.
 
 ***
-## Business Development
+### Business Development
 1.`accrue`:to comr as a gain or increase.
 
 2.`acquisition`:the act of acquiring.
@@ -110,8 +110,8 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 26.`thrive`:to grow vigorously; to flourish; to prosper.
 
-***
-## Finance & Investment
+
+### Finance & Investment
 1.`bond`: an official paper promising to pay a sum of money to the person who holds it.
 
 2.`chamber of commerce`: a group of business-men, in a particular town or area, working together for the purpose of improving trade.
@@ -147,7 +147,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 17.`expenditure`: spending or using up; the amount of money, time.
 
 ***
-## Commerce
+### Commerce
 1.`bid`: a bidding; the amount bid.
 
 2.`consolidate`: to combine into one; to become stronger or firmer.
@@ -187,7 +187,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 19.`warehouse`: a building where goods are stored.
 
 ***
-## Business Meeting & Negotiation
+### Business Meeting & Negotiation
 1.`adjourn`: to bring to a stop.for a short period or until a later time.
 
 2.`amendment`: a change to improve a rule, law, statement.
@@ -225,7 +225,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 18.`premise`: a statement or idea on which reasoning is based.
 
 ***
-## Technology & Equipment
+### Technology & Equipment
 1.`facilitate`: to make easy or easier.
 
 2.`malfunction`: a fault in operation.
@@ -251,7 +251,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 12.`procedure`: a set of actions necessary for doing something.
 
 ***
-## Computer
+### Computer
 1.`compliance`: obedience to a rule, agreement, demand.
 
 2.`cutting edge`: the quality of sharp directness.
@@ -265,7 +265,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 6.`omit`: to leave out or leave unmentioned.
 
 ***
-## Business Correspondence & Advertisement
+### Business Correspondence & Advertisement
 1.`appendix`: additional material at the end of a book.
 
 2.`cohesive`: holding fast. sticking together, well-integrated.
@@ -307,7 +307,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 20.`stationary`: writing materials, as pens; pencils, paper and envelopes.
 
 ***
-## Travel
+### Travel
 1.`accommodation`: adjustment, a place to live or work in.
 
 2.`customs`: a place where travelers' belongings are searched when leaving or entering a country.
@@ -337,3 +337,129 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 14.`porter`: a person employed to carry travelers' bags at railway stations, airports.
 
 15.`vacant`: not held, occupied as a seat, house.
+
+***
+### Transportation
+1.`accelerate`: to cause to move or happen faster.
+
+2.`buckle up`: to fasten a safely bell.
+
+3.`cargo`: the load carried by a ship, truck, plane.
+
+4.`convertible`:an automobile with a top that can be folded back.
+
+5.`jaywalk`: to walk across a street without obeying traffic rules and signals.
+
+6.`acrophbia`: an abnormal fear being in high places.
+
+7.`aviation`: the practice or science of flying in aircraft.
+
+8.`cabin`: a small roughly build house, a room on a ship. the space for passengers, crew, or cargo in an aircraft.
+
+9.`ferry`: a boat that goes across a river or any other stretch of water, carrying people and things.
+
+10.`freight`: goods carried by ship, train plane, etc; cargo.
+
+11.`intersection`: a point where roads, lines, etc. cross.
+
+12.`jeopardy`: risk of loss, defeat, harm, etc. danger, peril.
+
+13.`pedestrain`: a person going or traveling on foot.
+
+***
+### Shopping
+1.`bazaar`: a marketplace or a group of shops.
+
+2.`expiration`: a coming to an end.
+
+3.`itemize`: to set out all the details of; to list the individual units or parts of.
+
+4.`neon sign`: a sign made from glass tubes filled with neon gas which light up when light up when an electric current goes through them.
+
+5.`pushcart`: a small cart pushed by hand; handcart.
+
+6.`reimburse`: to pay back; to repay.
+
+7.`solicit`: to ask for money, help, favor, etc.
+
+8.`flea market`: a market where cheap or used goods are sold.
+
+9.`patron`: a regular customer; one who sponsors and supports some organization, activity, etc.
+
+10.`refund`: a sum of money refunded. to give back money in return for loss or damage.
+
+11.`retailer`: one who sells goods in a store to consumers.
+
+12.`thrift`: wise and careful use of money and goods; avoidance of waste.
+
+13.`vender`: a seller of small articles that can be carried about or pushed on a cart.
+
+14.`workmanship`: skill in making things; the quality of the work done.
+
+***
+### Dining Out
+1.`bland`: without much taste.
+
+2.`crave`: to have an intense desire for.
+
+3.`delicacy`: a choice food.
+
+4.`liquor`: a strong alcoholic drink.
+
+5.`munch`: to chew with a strong movement of the jaw.
+
+6.`palatable`: pleasant to the taste; agreeable to the mind or sensibilities.
+
+7.`ravenous`: extremely hungry; rapacious.
+
+8.`refreshment`: food or drink or both.
+
+9.`aperitif`: an alcoholic drink taken before a meal.
+
+10.`appetizer`: a food or drink taken before.
+
+11.`beverage`: any liquid for drinking, esp.
+
+12.`buffet`: a meal at which guest serve themselves from dishes arraged on a table or sideboard.
+
+13.`cuisine`: a style of cooking or preparing food. the food prepared.
+
+14.`entree`: a usually sweet food served as the last course of a meal.
+
+15.`hors d's oeuvre`: an appetizer served before a meal.
+
+16.`leftovers`: food remaining uneaten after a meal, esp. when served at a later meal.
+
+17.`parched`: completely dry; very thirsty.
+
+18.`pastry`: a small sweet cake with crust baked from flour dough made with shortening.
+
+19.`preservative`: a chemical substance that is used to prevent things from decaying.
+
+20.`seasoning`: anything that adds zest to or improves the flavor of food.
+
+***
+### Social Contact
+1.`courtesy`: polite behavior; good manners.
+
+2`distinguished`: characterized by excellence.
+
+3.`etiquette`: the forms, manners, etc.
+
+4.`lavish`: very generous or wasteful.
+
+5.`protocol`: the customs and regulations dealing with diplomatic formality.
+
+6.`eloquent`: able to express ideas and opinions readily and well.
+
+7.`encounter`: a meeting, either unexpected or dangerous.
+
+8.`hilarious`: noisily merry.
+
+9.`intrude`: to enter unwanted or unasked.
+
+10.`nuisnce`: a person, thing, or situation that causes annoyance or inconvenience.
+
+11.`prompt`: arriving at the right time.
+***
+###
