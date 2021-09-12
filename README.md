@@ -468,3 +468,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 2.`composer`: a person who writes music.
 
 3.`conductor`: one who directs the playing of a group of musicians.
+
+4.`fare`: money paid for transportation.
+
+5.`periodical`: a magazine or other journal that is issued at regular times.
