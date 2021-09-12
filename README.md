@@ -472,3 +472,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 4.`fare`: money paid for transportation.
 
 5.`periodical`: a magazine or other journal that is issued at regular times.
+
+6.`premiere`: a first public presentation of a play or film.
