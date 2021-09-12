@@ -464,3 +464,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 ***
 ### Entertainment & Mass Media
 1. `celebrity`: a famous person; the state of being famous.
+
+2.``:
