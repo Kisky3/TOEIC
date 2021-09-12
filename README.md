@@ -476,3 +476,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 6.`premiere`: a first public presentation of a play or film.
 
 7.`scenario`: an outline of a dramatic work; the script of a film.
+
+8.`scriptwriter`: one who writes the next of play.
+
+9.`symphony`: a piece of music for an orchestra.
