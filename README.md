@@ -465,4 +465,6 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 ### Entertainment & Mass Media
 1. `celebrity`: a famous person; the state of being famous.
 
-2.``:
+2.`composer`: a person who writes music.
+
+3.`conductor`: one who directs the playing of a group of musicians.
