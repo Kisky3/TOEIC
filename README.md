@@ -480,3 +480,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 8.`scriptwriter`: one who writes the next of play.
 
 9.`symphony`: a piece of music for an orchestra.
+
+10.``:
