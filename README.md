@@ -490,3 +490,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 13.`cutain call`: the return of the actors to the stage after a performance to acknowledge the audience's applause.
 
 14.`editorial`: an article, as in a newspaper, expressing the opinion of its editors or publishers.
+
+15.`finale`: the concluding part esp. of a musical composition.
