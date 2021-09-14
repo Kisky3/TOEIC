@@ -485,4 +485,6 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 11.`choreography`: the art of creating and arranging ballets or dances.
 
-12.``:
+12.`circus`: a traveling show of acrobats, clowns, trained animals.
+
+
