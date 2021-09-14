@@ -481,4 +481,8 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 9.`symphony`: a piece of music for an orchestra.
 
-10.``:
+10.`carnival`: merrymaking and feasting.
+
+11.`choreography`: the art of creating and arranging ballets or dances.
+
+12.``:
