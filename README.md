@@ -487,4 +487,6 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 12.`circus`: a traveling show of acrobats, clowns, trained animals.
 
+13.`cutain call`: the return of the actors to the stage after a performance to acknowledge the audience's applause.
+
 
