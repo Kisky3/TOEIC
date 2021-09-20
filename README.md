@@ -496,3 +496,8 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 16.`playwright`: one who writes plays.
 
 17.`stunt`: an often dangerous act of skill; an action which gains attention, esp. in advertising.
+
+***
+## Sports & Recreational Activities
+1.`aerobics`: exercises that condiction the heart and lungs by incresing efficient intake of oxygen by the body.
+
