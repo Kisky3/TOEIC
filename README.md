@@ -501,3 +501,30 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 ## Sports & Recreational Activities
 1.`aerobics`: exercises that condiction the heart and lungs by incresing efficient intake of oxygen by the body.
 
+2.`league`: a group of teams organized to play one another.
+
+3.`recreation`: amusement and enjoyment.
+
+4.`rigor`: strictness or severity.
+
+5.`stroll`: to walk at a leisurely pace.
+
+6.`trophy`: a prize given for winning a race.
+
+7.`usher`: one who shows people to  their seats in a theater.
+
+8.`billiards`: a game played with hard balls moved by a cue on a table with raised, cushioned edges.
+
+9.`default`: failure to perform a duty.
+
+10.`forfeit`: a fine or penalty.
+
+11.`leisure`: time when one is free from work or duties.
+
+12.`referee`: an official who endorces the rules in certain sports contests.
+
+13.`spectator`: q person who watches an event or sport without taking part.
+
+14.`tactic`: a plan or menthod that is intended to gain a desired result.
+
+
