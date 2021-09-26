@@ -545,4 +545,6 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 6.`terms`: the conditions of an agreement, contract, etc.
 
-7.``:
+7.`vital`: very necessary, of the greatest importance ,essential to life.
+
+
