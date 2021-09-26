@@ -533,4 +533,10 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 ***
 ### Medicine & Insurance
+1.`alleviate`: to reduce pain, suffering.
 
+2.`contagious`: of a disease that can be passed from one person to another by touch.
+
+3.`mandatory`: authoritatively ordered.
+
+4.``:
