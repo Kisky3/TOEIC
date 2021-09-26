@@ -539,4 +539,4 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 3.`mandatory`: authoritatively ordered.
 
-4.``:
+4.`severe`: rigidly accurate and demanding. unsparing and harsh in treating others.
