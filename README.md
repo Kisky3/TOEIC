@@ -556,3 +556,6 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 11.`coverage`: the extent or degree to which something is observed, analyzed, and reported, the amount of protection given by insurance.
 
 12.`excruciating`: intensely painful or distressing; intense or extreme.
+
+13.`fraud`: deliberate deception for unfair or unlawful gain.
+
