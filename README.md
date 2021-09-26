@@ -549,4 +549,8 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 8.`antibiotic`: any of various substances, such as penicillin and streptomycin.
 
+9.`commission`: money paid to a salesman or agent for services rendered.
 
+10.`comprehensive`: including a lot or everything. large in scope or content.
+
+11.`coverage`: the extent or degree to which something is observed, analyzed, and reported, the amount of protection given by insurance.
