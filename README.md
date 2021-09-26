@@ -547,4 +547,6 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 7.`vital`: very necessary, of the greatest importance ,essential to life.
 
+8.`antibiotic`: any of various substances, such as penicillin and streptomycin.
+
 
