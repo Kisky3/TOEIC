@@ -560,4 +560,3 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 13.`fraud`: deliberate deception for unfair or unlawful gain.
 
 ***
-### 
