@@ -584,3 +584,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 4.`mortgage`: a legal pledge of property to a creditor as security for the payment of a loan or debt.
 
 5.`ornament`: something that is added to make something else more beautiful.
+
+6.`suburb`: an outer area of a city or town, where people live.
