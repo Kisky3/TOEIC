@@ -582,3 +582,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 3.`lease`: a contract by which a landlord rents land, buildings, etc to others for a specified time.
 
 4.`mortgage`: a legal pledge of property to a creditor as security for the payment of a loan or debt.
+
+5.`ornament`: something that is added to make something else more beautiful.
