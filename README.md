@@ -565,6 +565,9 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 16.`liable`: legally bound or responsible.
 
+17.`pharmaceutical`: connected with medicine.
+
+18.`purification`: the act or process of making pure.
 
 ***
 ### 
