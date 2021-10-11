@@ -559,4 +559,9 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 13.`fraud`: deliberate deception for unfair or unlawful gain.
 
+14. `handicap`: a physiological or mental deficiency that prevents or restricts normal achievement.
+
+
+
 ***
+### 
