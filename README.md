@@ -578,3 +578,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 1.`burglar`: a thief who breaks into houses, shops, etc. with the intention of stealing.
 
 2.`fire extinguisher`: a smallish mental container with water or chemicals inside for putting out a fire.
+
+3.`lease`: a contract by which a landlord rents land, buildings, etc to others for a specified time.
