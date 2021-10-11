@@ -573,4 +573,6 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 
 20.`waive`: to give up.
 ***
-### 
+
+### Housing
+1.`burglar`: a thief who breaks into houses, shops, etc. with the intention of stealing.
