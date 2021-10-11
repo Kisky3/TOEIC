@@ -580,3 +580,5 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 2.`fire extinguisher`: a smallish mental container with water or chemicals inside for putting out a fire.
 
 3.`lease`: a contract by which a landlord rents land, buildings, etc to others for a specified time.
+
+4.`mortgage`: a legal pledge of property to a creditor as security for the payment of a loan or debt.
