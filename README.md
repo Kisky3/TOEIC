@@ -570,5 +570,7 @@ some essential words for TOEIC. click => [page preview](https://kisky3.github.io
 18.`purification`: the act or process of making pure.
 
 19.`trauma`: a bodily injury; an emotional shock,often having a lasting psychic effect.
+
+20.`waive`: to give up.
 ***
 ### 
